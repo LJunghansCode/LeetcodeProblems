@@ -14,6 +14,7 @@ for(let first = 0; first < nums.length; first++){
                 }
                 returnNum.push(first);
                 returnNum.push(second);
+
                 return returnNum;
         } else {
             continue;
